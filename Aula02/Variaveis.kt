@@ -1,7 +1,7 @@
 // Exemplo de variável em Kotlin
 
 // fun main() {
-//     var nome = "Thiago" //variavel tipo string -- não pode ser alterada (não mutável)
+//     val nome = "Thiago" //variavel tipo string -- não pode ser alterada (não mutável)
 //     var inicial = nome[0] //variável tipo char
 //     var idade = 27 //variável tipo int         -- pode ser alterada (mutável)
 //     println("Nome: $nome, Idade: $idade")
